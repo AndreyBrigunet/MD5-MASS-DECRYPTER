@@ -8,4 +8,5 @@ $php run.php
 Delimeter harus email|password
 contoh :
 test@gmail.com|2c3c8f1d5455a306479f60b7e05809e0
-result save ke result.txt
+
+result hasil decrypt bakal di save ke result.txt

@@ -1,8 +1,12 @@
 # MD5-MASS-DECRYPTER
 $pkg update && pkg upgrade
+
 $pkg install php && pkg install git
+
 $git clone https://github.com/rikizkunn/MD5-MASS-DECRYPTER/
+
 $cd MD5-MASS-DECRYPTER
+
 $php run.php
 
 Delimeter harus email|password
